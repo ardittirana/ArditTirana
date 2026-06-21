@@ -5,14 +5,6 @@ Based in Kosovo. I build real products end to end and contribute fixes upstream 
 
 ---
 
-### 🚀 Featured project
-
-**[slooze-fullstack-challenge](https://github.com/ardittirana/slooze-fullstack-challenge)** — a food-ordering app built end to end.
-NestJS + code-first GraphQL + Prisma backend, Next.js (App Router) + Apollo + Tailwind frontend, with
-**role-based access control and country-scoped relationship-based access control** through a centralized authorization service.
-
----
-
 ### 💻 What I do
 
 - **Full-stack web apps** — frontend, backend, APIs, databases
