@@ -5,25 +5,6 @@ Based in Kosovo. I build real products end to end and contribute fixes upstream 
 
 ---
 
-### 🔧 Open-source contributions
-
-Real, tested fixes (reproduce → fix → regression test → upstream PR) to projects I actually use:
-
-| Project | Contribution | Status |
-|---|---|---|
-| [adobe/react-spectrum](https://github.com/adobe/react-spectrum/pull/10238) | Fixed fractional table-width rounding that produced a spurious horizontal scrollbar; added regression test | Under review |
-| [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest/pull/1463) | `Get` now distributes over unions so a key missing on some members resolves correctly | Under review |
-| [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer/pull/8847) | Consolidated `/z/<id>` short-URL parsing into one robust helper (+ tests) | Under review |
-| [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks/pull/2175) | Scoped `withinColumns` proximity to the same line to remove false positives | Under review |
-| [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw/pull/11526) | Stopped rotation snapping to the grid (#4057) | Under review |
-| [BerriAI/litellm](https://github.com/BerriAI/litellm/pull/30860) | Fixed Prometheus metric registration for `litellm_total_users` / `litellm_teams_count` | Under review |
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock/pull/3012) | Avoided false `CLAIMED` results for message-type sites on server errors | Under review |
-| [owasp-amass/asset-db](https://github.com/owasp-amass/asset-db/pull/44) | Fixed regex evaluation in the subject of an association triple | Under review |
-| [numerique-gouv/django-dsfr](https://github.com/numerique-gouv/django-dsfr/pull/321) | Excluded the test package from the built wheel | Under review |
-| [P4nD3m1CB0Y0xD/TikStalker](https://github.com/P4nD3m1CB0Y0xD/TikStalker/pull/1) | OSINT tool fix | ✅ Merged |
-
----
-
 ### 🚀 Featured project
 
 **[slooze-fullstack-challenge](https://github.com/ardittirana/slooze-fullstack-challenge)** — a food-ordering app built end to end.
